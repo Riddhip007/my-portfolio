@@ -19,7 +19,7 @@ const greeting = {
   username: "codebyriddhip",
   title: "Hey there, I'm Riddhipkumar",
   subTitle: emoji("Welcome to my personal website. I specialize in AI/ML and full-stack development, with a strong interest in project management, problem-solving, and building scalable digital solutions."),
-  resumeLink:"https://drive.google.com/file/d/1h6F2J2b4zoyVyXAIP3uLEL1w9waFyFzd/view?usp=drivesdk",
+  resumeLink:"https://drive.google.com/file/d/1pOm8LFH-90R2FPtdWl71WOsgnaqkQdS-/view?usp=drivesdk",
   displayGreeting: true 
 };
 

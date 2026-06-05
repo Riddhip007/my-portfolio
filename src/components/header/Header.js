@@ -56,14 +56,12 @@ function Header() {
               <a href="#officeProjects">My Office Projects</a>
             </li>
           )}
-          {viewOpenSource && (
-            <li>
-              <a href="https://mayursinhdevblog.hashnode.dev/">My Blogs</a>
-            </li>
-          )}
           <li>
             <a href="#contact">Contact Me</a>
           </li>
+          <li>
+            <a href="#education">Education</a>
+            </li> 
         </ul>
       </header>
     </Headroom>
